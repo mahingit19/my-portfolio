@@ -1,0 +1,36 @@
+.text-justify {
+    text-align: justify;
+}
+
+.card-text-h {
+    min-height: 100px;
+}
+
+.img-skills {
+    width: 100px;
+}
+
+.bg-orange {
+    background-color: orangered;
+}
+
+.bg-php {
+    background-color: #777BB2;
+}
+
+.bg-bs {
+    background-color: #5E3B7F;
+}
+
+.card {
+    width: 500px;
+    margin: auto;
+}
+
+.progress-h {
+    height: 100px;
+}
+
+.img-contact {
+    width: 50px;
+}
