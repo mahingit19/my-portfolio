@@ -23,7 +23,6 @@
 }
 
 .card {
-    /* width: 500px; */
     margin: auto;
 }
 
@@ -33,4 +32,8 @@
 
 .img-contact {
     width: 50px;
+}
+
+.skills-width {
+    width: 500px;
 }
